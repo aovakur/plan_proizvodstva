@@ -1,0 +1,2 @@
+PathP = C:\spm\model\MTS\
+PathT = C:\demoSamples\complexModel\spb\

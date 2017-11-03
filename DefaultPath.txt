@@ -1,7 +1,7 @@
 SPM 
-c:\spm\tab\spm
+C:\demoSamples\complexModel\
 SPB
-c:\spm\spb\
+C:\demoSamples\complexModel\spb\
 SYS 
 C:\spm\model\stdPS\;c:\SPM\sys\;c:\SPM\sys\контур\
 TAB 
